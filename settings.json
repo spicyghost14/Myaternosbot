@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Righthere_SMP.aternos.me",
+    "ip": "asia.noxel.fun",
     "port": 30792,
     "version": "",
     "try-creative": false
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "gogo1234"
     },
     "anti-afk": {
       "enabled": true,
@@ -30,11 +30,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [
-        "Don't cheat on this server",
-        "join discord server!",
-        "try the pvp!"
-      ]
+      "messages": []
     },
     "chat-log": true,
     "auto-reconnect": true,
